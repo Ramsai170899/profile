@@ -1,3 +1,4 @@
+```
 \documentclass[a4paper,10pt]{article}
 \usepackage{graphicx}
 \usepackage[left=0.75in, right=0.75in, top=0.75in, bottom=0.75in]{geometry}
@@ -146,3 +147,4 @@ Highly motivated Data Science aspirant excited to collaborate with visionary tea
 
 \end{document}
 
+```
