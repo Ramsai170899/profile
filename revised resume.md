@@ -1,12 +1,6 @@
----
-
-### **Revised Resume Sections**
-
 #### **Objective**
 
-A Professional Summary is more modern and impactful than an Objective. It summarizes your experience and value upfront.
-
-> **Data Scientist & Actuarial Analyst** with expertise in developing and deploying machine learning models and data engineering tools to solve complex business problems in the insurance and financial sectors. Proficient in the end-to-end model lifecycle, from data validation and feature engineering in Python and PySpark to deploying production-ready solutions that drive efficiency and provide actionable insights. Proven ability to deliver significant performance improvements, including a 7x speed-up in critical financial forecasting.
+**Data Scientist & Actuarial Analyst** with expertise in developing and deploying machine learning models and data engineering tools to solve complex business problems in the insurance and financial sectors. Proficient in the end-to-end model lifecycle, from data validation and feature engineering in Python and PySpark to deploying production-ready solutions that drive efficiency and provide actionable insights. Proven ability to deliver significant performance improvements, including a 7x speed-up in critical financial forecasting.
 
 #### **Work Experience**
 
@@ -14,9 +8,9 @@ A Professional Summary is more modern and impactful than an Objective. It summar
 
 *   Engineered a scalable **Python-based data validation framework** to process and cleanse high-volume policyholder and claims data, ensuring data integrity for downstream analytics and regulatory reporting.
 *   Developed and optimized an end-to-end **Reserve Calculation model**, achieving a **7x performance improvement** by refactoring code and algorithm optimization, reducing runtime from 3.5 hours to 30 minutes.
-*   Architected and built an internal **RAG-based chatbot** using a custom knowledge base, streamlining employee training on complex product details and insurance regulations.
+*   Architected and built an internal **RAG-based chatbot** using a custom knowledge base, streamlining employee training on product details and insurance regulations.
 *   Designed a framework to **automate IRDAI Actuarial Annual Returns and Solvency Calculations**, reducing manual effort and minimizing the risk of human error.
-*   Developed interactive **Tableau/Power BI dashboards** to analyze claim patterns, product profitability, and portfolio performance, enabling data-driven strategic decisions.
+*   Developed interactive **Powerpivot and Power BI dashboards** to analyze claim patterns, product profitability, and portfolio performance, enabling data-driven strategic decisions.
 
 **Actuarial Data Science Intern** | SSSIHL | Nov 2023 – Jan 2024
 
@@ -28,20 +22,10 @@ A Professional Summary is more modern and impactful than an Objective. It summar
 
 *   Enhanced a data collection and fingerprint analysis application by implementing bug fixes, new features, and performance tuning.
 *   Configured and optimized fingerprint matching algorithms and sensor calibration protocols using console-based Autotune and performance evaluation tools.
-*   Contributed to a fraud detection module that analyzed fingerprint patterns to identify suspicious activity and provided user feedback for improved sensor performance.
+*   Contributed to a fraud detection module that analyzed logs files of fingerprint patterns to identify suspicious activity and provided user feedback for improved sensor performance.
 
 **Actuarial Data Science Intern** | Tech Actuarial | Jun 2022 – Aug 2022
 
 *   Contributed to a predictive modeling project for **insurance fraud detection**.
 *   Addressed severe class imbalance in the dataset by implementing **SMOTE (Synthetic Minority Over-sampling Technique)**.
 *   Trained and evaluated a **Random Forest classifier** that achieved **95% accuracy and an AUC score of 0.99**, effectively identifying fraudulent claims.
-
-### **Key Improvements in the Revised Version:**
-
-*   **Stronger Verbs:** "Engineered," "Architected," "Led," "Optimized."
-*   **Clearer Impact:** Explains *why* the work was important (e.g., "ensuring data integrity," "reducing manual effort").
-*   **Quantification:** Highlights the 7x speed-up and specific model metrics (RMSE, MAE, AUC).
-*   **Modern Terminology:** Uses terms like "RAG-based chatbot," "end-to-end model lifecycle," and "production-ready solutions" that resonate with tech companies.
-*   **Focus on Transferable Skills:** Your actuarial work is framed as data science, software engineering, and ML Ops work, making it highly relevant for any data-driven company.
-
-This revised version presents you as a results-oriented technologist who can build robust data solutions, not just an analyst who performs tasks. Good luck
