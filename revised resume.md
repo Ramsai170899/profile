@@ -54,7 +54,7 @@ Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh
 - https://www.jetir.org/view?paper=JETIR2206A01
 
 ## Skills
-Hadoop — Spark — Pyspark — Databricks — Docker — Python — pandas — R programming — MS Excel —
+Hadoop — Spark — Pyspark — Databricks — Python — pandas — R programming — MS Excel —
 Power BI — RDBMS — SQL — Flask — Version control — Big Data — Machine Learning — Deep Learning
 
 # Certifications
