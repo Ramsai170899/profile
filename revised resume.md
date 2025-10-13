@@ -1,3 +1,5 @@
+# Ramsai Jagadish Yenugadhati
+
 ## Objective
 
 **Data Scientist & Actuarial Analyst** with expertise in developing and deploying machine learning models and data engineering tools to solve complex business problems in the insurance and financial sectors. Proficient in the end-to-end model lifecycle, from data validation and feature engineering in Python and PySpark to deploying production-ready solutions that drive efficiency and provide actionable insights. Proven ability to deliver significant performance improvements, including a 7x speed-up in critical financial forecasting.
@@ -31,3 +33,31 @@
 *   Contributed to a predictive modeling project for **insurance fraud detection**.
 *   Addressed severe class imbalance in the dataset by implementing **SMOTE (Synthetic Minority Over-sampling Technique)**.
 *   Trained and evaluated a **Random Forest classifier** that achieved **95% accuracy and an AUC score of 0.99**, effectively identifying fraudulent claims.
+
+
+
+## Education
+*  MSc Data Sciences and Computing - CGPA : 7.2 — August 2020 - May 2022
+
+Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh
+
+*  Bachelor of Computer Applications - CGPA : 7.0 — June 2017 - April 2020
+
+Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh
+
+## Achievements
+* Published Paper ID: JETIR2206A01 - International Journal of Emerging Technologies and Innovative Research
+- ”Estimation of Number of Claims in Motor Insurance using Generalized Linear Models and Artificial Neural Networks.”
+- https://www.jetir.org/view?paper=JETIR2206A01
+
+## Skills
+Hadoop — Spark — Pyspark — Databricks — Docker — Python — pandas — R programming — MS Excel —
+Power BI — RDBMS — SQL — Flask — Version control — Big Data — Machine Learning — Deep Learning
+
+# Certifications
+https://simpli.app.link/7gUBsEe0VDb - Big Data Hadoop and Spark Developer
+
+https://simpli.app.link/zdCFNNoTNDb - Machine Learning
+
+https://simpli-web.app.link/e/ZHitSvZvsDb - Applied Data Science with Python
+
