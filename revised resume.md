@@ -16,7 +16,7 @@
 
 *   Led a project to estimate motor insurance claim frequency by implementing and evaluating **Generalized Linear Models (GLM)** and **Artificial Neural Networks (ANN)** on a Crash Analysis System (CAS) dataset.
 *   **Model Comparison & Selection:** Evaluated Negative Binomial (NB2), Poisson, Quasi-Poisson, and Neural Network models. The **Negative Binomial model achieved superior performance (RMSE: 0.30, MAE: 0.09)** and was selected for production due to its high accuracy and significantly lower computational cost compared to the neural network.
-*   Developed an end-to-end **Fraud Detection tool** with high accuracy (state the % if possible) for identifying fraudulent insurance claims.
+*   Developed an end-to-end **Fraud Detection tool** with high accuracy of 89% for identifying fraudulent insurance claims.
 
 **Software Engineer** | Bluezone International Inc | Sep 2022 – Oct 2023
 
