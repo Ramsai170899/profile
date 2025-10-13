@@ -6,23 +6,23 @@
 
 **Actuarial Business Analyst** | CreditAccess Life Insurance | Feb 2024 – Present
 
-*   Engineered a scalable **Python-based data validation framework** to process and cleanse high-volume policyholder and claims data, ensuring data integrity for downstream analytics and regulatory reporting.
-*   Developed and optimized an end-to-end **Reserve Calculation model**, achieving a **7x performance improvement** by refactoring code and algorithm optimization, reducing runtime from 3.5 hours to 30 minutes.
-*   Architected and built an internal **RAG-based chatbot** using a custom knowledge base, streamlining employee training on product details and insurance regulations.
-*   Designed a framework to **automate IRDAI Actuarial Annual Returns and Solvency Calculations**, reducing manual effort and minimizing the risk of human error.
-*   Developed interactive **Powerpivot and Power BI dashboards** to analyze claim patterns, product profitability, and portfolio performance, enabling data-driven strategic decisions.
+*   Built a scalable **Python-based data validation framework** to process and cleanse high-volume policyholder and claims data, ensuring data integrity for analytics and regulatory reporting.
+*   Developed and optimized an end-to-end **Reserve Calculation model**, achieving a **7x performance improvement** by refactoring code and improving algorithms, which reduced runtime from 3.5 hours to 30 minutes.
+*   Created an internal **RAG-based chatbot** using a custom knowledge base, allowing employees to quickly find information on products and regulations.
+*   Designed a framework to **automate IRDAI Actuarial Annual Returns and Solvency Calculations**, reducing manual effort and minimizing errors.
+*   Developed interactive **Powerpivot and Power BI dashboards** to analyze claim patterns, product profitability, and portfolio performance, supporting data-driven decision-making.
 
 **Actuarial Data Science Intern** | SSSIHL | Nov 2023 – Jan 2024
 
-*   Led a project to estimate motor insurance claim frequency by implementing and evaluating **Generalized Linear Models (GLM)** and **Artificial Neural Networks (ANN)** on a Crash Analysis System (CAS) dataset.
-*   **Model Comparison & Selection:** Evaluated Negative Binomial (NB2), Poisson, Quasi-Poisson, and Neural Network models. The **Negative Binomial model achieved superior performance (RMSE: 0.30, MAE: 0.09)** and was selected for production due to its high accuracy and significantly lower computational cost compared to the neural network.
-*   Developed an end-to-end **Fraud Detection tool** with high accuracy of 91% for identifying fraudulent insurance claims.
+*   Led a project to estimate motor insurance claim frequency by building and evaluating **Generalized Linear Models (GLM)** and **Artificial Neural Networks (ANN)** on a Crash Analysis System (CAS) dataset.
+*   **Model Comparison & Selection:** Evaluated Negative Binomial (NB2), Poisson, Quasi-Poisson, and Neural Network models. The **Negative Binomial model performed best (RMSE: 0.30, MAE: 0.09)** and was selected for production due to its high accuracy and lower computational cost.
+*   Built an end-to-end **Fraud Detection tool** that identified fraudulent insurance claims with 91% accuracy.
 
 **Software Engineer** | Bluezone International Inc | Sep 2022 – Oct 2023
 
-*   Enhanced a data collection and fingerprint analysis application by implementing bug fixes, new features, and performance tuning.
-*   Configured and optimized fingerprint matching algorithms and sensor calibration protocols using console-based Autotune and performance evaluation tools.
-*   Contributed to a fraud detection module that analyzed logs files of fingerprint patterns to identify suspicious activity and provided user feedback for improved sensor performance.
+*   Improved a data collection and fingerprint analysis application by implementing bug fixes, new features, and performance optimizations.
+*   Configured and optimized fingerprint matching algorithms and sensor calibration using console-based Autotune and performance evaluation tools.
+*   Worked on a fraud detection module that analyzed fingerprint pattern logs to identify suspicious activity and provided user feedback to improve sensor performance.
 
 **Actuarial Data Science Intern** | Tech Actuarial | Jun 2022 – Aug 2022
 
