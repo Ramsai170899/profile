@@ -1,8 +1,8 @@
-#### Objective
+## Objective
 
 **Data Scientist & Actuarial Analyst** with expertise in developing and deploying machine learning models and data engineering tools to solve complex business problems in the insurance and financial sectors. Proficient in the end-to-end model lifecycle, from data validation and feature engineering in Python and PySpark to deploying production-ready solutions that drive efficiency and provide actionable insights. Proven ability to deliver significant performance improvements, including a 7x speed-up in critical financial forecasting.
 
-#### Work Experience
+## Work Experience
 
 **Actuarial Business Analyst** | CreditAccess Life Insurance | Feb 2024 – Present
 
