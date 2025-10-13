@@ -10,6 +10,7 @@
 *   Built a scalable **Python-based data validation framework** to process and cleanse high-volume policyholder and claims data, ensuring data integrity for analytics and regulatory reporting.
 *   Developed and optimized an end-to-end **Reserve Calculation model**, achieving a **7x performance improvement** by refactoring code and improving algorithms, which reduced runtime from 3.5 hours to 30 minutes.
 *   Created an internal **RAG-based chatbot** using a custom knowledge base, allowing employees to quickly find information on products and regulations.
+*   Developed automated workflows for recurring monthly reports, including Claims reporting and COI status tracking.
 *   Designed a framework to **automate IRDAI Actuarial Annual Returns and Solvency Calculations**, reducing manual effort and minimizing errors.
 
 **Actuarial Data Science Intern** | SSSIHL | Nov 2023 – Jan 2024
